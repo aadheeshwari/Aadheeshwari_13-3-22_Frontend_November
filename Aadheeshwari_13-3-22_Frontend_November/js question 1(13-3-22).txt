@@ -1,0 +1,7 @@
+1) write some advantages of javascript ?
+
+     + server interaction is less
+     + feedback to the visitor is immiediate
+     + interactivity is high
+     + interfaces are richer 
+

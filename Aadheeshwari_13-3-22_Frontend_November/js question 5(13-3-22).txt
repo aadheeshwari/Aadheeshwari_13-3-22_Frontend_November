@@ -1,0 +1,10 @@
+5) how many operator in javascript and what are they ?
+   
+
+   their are five operators in javascript and thay are :-
+          
+        => Arithmetic operator
+        => Comparison operator
+        => logical operator
+        => Assignment operator 
+        => Conditional operator

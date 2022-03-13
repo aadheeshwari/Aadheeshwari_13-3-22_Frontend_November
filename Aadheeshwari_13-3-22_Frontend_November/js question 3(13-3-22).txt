@@ -1,0 +1,4 @@
+3)  What are the different data types present in JavaScript?
+
+      => Primitivr data type
+      => Non primitive data type

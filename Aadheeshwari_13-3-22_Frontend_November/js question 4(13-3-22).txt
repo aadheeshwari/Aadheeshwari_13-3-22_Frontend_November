@@ -1,0 +1,11 @@
+74) How to create an array in JavaScript?
+
+
+         => By array literal
+         => By creating an instance of Array
+         => By using an Array constructor
+
+
+example:-
+   
+         arr=[value1,value2,valu3,value4,....]

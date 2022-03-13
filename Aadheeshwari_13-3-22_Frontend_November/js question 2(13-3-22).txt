@@ -1,0 +1,13 @@
+2) can an anonymous function is assiged to a variable?
+  
+
+     yes, you can assiged a anonymous function as a variable 
+ 
+
+example:-
+     
+     let anony = function(){
+         console.log("i am working")        
+     
+      }
+       anony()  
